@@ -68,9 +68,9 @@ if __name__ == '__main__':
     #     print('value error 异常， 他的错误消息是：', ex)
     except KeyError as msg:
         print(str(msg) + ' is  not in dict')
-    # except (NameError, ValueError, KeyError) as err:
-    #     t, v, _ = sys.exc_info()
-    #     print(t, v)
+    except (NameError, ValueError, KeyError) as err:
+        t, v, _ = sys.exc_info()
+        print(t, v)
     #     print('捕获到key error 或 value error的相关错误, 错误信息为：', err)
     except Exception as ex:
         print('捕获未知异常， 异常消息为：', ex)
@@ -80,15 +80,15 @@ if __name__ == '__main__':
     from time import sleep
     
     num = 0
-    # while num < 100:
-    #     num += 1
-    #     try:
-    #         if num == 100:
-    #             raise ValueError('num == 100 , so except')
-    #     except ValueError as ex:
-    #         print(num)
-    #         print(ex)
-    # print(num)
+    while num < 100:
+        num += 1
+        try:
+            if num == 100:
+                raise ValueError('num == 100 , so except')
+        except ValueError as ex:
+            print(num)
+            print(ex)
+    print(num)
     # redis = ''
     # while 1:
     #     print(num)
