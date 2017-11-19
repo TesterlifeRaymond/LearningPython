@@ -31,7 +31,7 @@ class MyFirstClass:
         # self.__name 是实例类属性
         # 带有双下划线的实例类属性属于私有属性， 是说这个类中的私有属性不建议在外部直接调用或访问
     
-    def __repr__(self):
+    def __repr__(self) -> str:
         """
             返回这个对象的基础信息
             自定义一个返回结果，替换掉默认的返回内存地址的信息
@@ -84,7 +84,7 @@ class PythonStudent:
 
         with open('Users/{}.json'.format(self.name), 'wb') as file:
             file.write(user_json.encode())
-        return '数据存储完成'
+        return '数据存储完成, 存储文件是{}.json'.format(self.name)
 
 
 class Crawl:
@@ -103,7 +103,9 @@ class Crawl:
             repr
         :return:
         """
-        print('需要请求的url: {}, 对应的解析xpath:{}, 爬虫对应的名字{}'.format(*self.info))
+        # print(dir(self))
+        return '需要请求的url: {}, 对应的解析xpath:{}, 爬虫对应的名字{}'.format(*self.info)
+
 
 if __name__ == '__main__':
     # 我们定义了一个类
@@ -117,8 +119,20 @@ if __name__ == '__main__':
         ('Gang', 18, '上海'),
         ('随便', 30, '俄罗斯'),
         ('Raymon', 20, '北京'),
-        ('狗子', 5, '新加坡')
+        ('狗子', 5, '新加坡'),
+        ('年华', 25, '上海'),
+        ('思', 30, '马来西亚')
     ]
+    # user = MyFirstClass(*user_infos[2])
+    # print(user)
+    # user.reset_name('行者')
+    # print(user)
+    # user.reset_name('在路上')
+    # print(user)
+    # user.del_all_info()
+    # print(user)
+    # crawl = Crawl('http://baidu.com', '//title/text()', '百度')
+    # print(dir(crawl))
     for user in user_infos:
-        print(PythonStudent(*user))
-        break
+        class_instance = PythonStudent(*user)
+        print(class_instance)
