@@ -17,8 +17,11 @@ class Student:
         :param name: 学生名
         :param age: 学生年龄
         :param sex: 学生的性别
+        :param classinfo: 班级信息
         """
         self.user_info = name, age, sex, classinfo
+        if len(self.user_info) != 4:
+            raise AttributeError('传递进来的参数错误，请验证后重新传递！')
         self.user_info_back = self.user_info
         self.users_path = 'Users'
         self.titles = ('用户名', '年龄', '性别', '班级')
@@ -43,7 +46,7 @@ class Student:
 
         with open('{}/{}.json'.format(self.users_path, self.user_info_back[0]), 'wb') as file:
             file.write(json.dumps(self.user_info_dict, indent=4, ensure_ascii=False).encode())
-    
+
     def get_userinfo(self):
         """
             查询用户信息的方法
@@ -70,6 +73,8 @@ class Student:
             返回这个类实例对象存储的是哪一个用户
         :return:
         """
+        # student = Student(*user_info)
+        # dir(student) == dir(self)
         if 'user_info' not in dir(self):
             return '用户信息已删除'
         return '<Student "{}">'.format(self.user_info_back[0])
@@ -89,7 +94,8 @@ class Fruits:
         """
         print('这里有一个苹果')
     
-    def banana(self):
+    @classmethod
+    def banana(cls):
         """
             return banana
         :return:
