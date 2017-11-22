@@ -130,6 +130,7 @@ class 搞事情:
             # for key, value in [(key, value), (key, value), (key, value)]:
             print(关键字, 值)
 
+
 if __name__ == '__main__':
     搞 = 搞事情(1, 2, 3, 4, 5, 6, abc=123, bcd=456, abcd=1234)
     搞.将字典中的元素全部打印出来()
@@ -142,3 +143,4 @@ if __name__ == '__main__':
     print(yellow_duck)
     green_duck = Duck('绿头鸭', 2, '彩色', hair='一头绿色的长发', fly='迎风就飞起来')
     print(green_duck)
+
