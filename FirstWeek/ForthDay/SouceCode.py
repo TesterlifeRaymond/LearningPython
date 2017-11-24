@@ -11,8 +11,8 @@
 # dir用来查看入参的全部方法
 # [dict.modules, clear, fromkeys, keys, values, pop, popitem]
 
-dict_modules = [item for item in dir(dict) if not '__' in item]
-print(dict_modules)
+# dict_moduemailles = [item for item in dir(dict) if not '__' in item]
+# print(dict_modules)
 # clear 是清空字典中的所有键值对， key=value
 # copy  是复制一个字典全部的key value
 # fromkeys 是接受一个列表或元组， 并把元组中的所有元素作为key， 默认赋值key的value为None

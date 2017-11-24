@@ -29,7 +29,7 @@ import json
 from lxml import etree
 
 
-# html = requests.get('http://testerlife.com').text
+html = requests.get('http://testerlife.com').text
 #
 #
 # element = etree.HTML(html).xpath('//title/text()')
@@ -139,6 +139,13 @@ class QiuShiBaiKe(Crawl):
         
 
 if __name__ == '__main__':
+    qb = QiuShiBaiKe('https://www.qiushibaike.com/', 'qb')
+    xpaths = [
+        '//h2/text()',
+        '//*[@class="content"]/span/text()',
+        '//*[@class="stats"]/span/i/text()'
+    ]
+    print(qb.allinfo(xpaths))
     # crawl = TesterlifeCrawl()
     # xpaths = [
     #     '//*[@id="post-tester_4"]/div[2]/div[1]/blockquote/p/text()',
@@ -146,13 +153,16 @@ if __name__ == '__main__':
     #     '//a[@class="article-title"]/@href',
     #     '//*[@class="article-date"]/time/@datetime'
     # ]
-    # # crawl.set_xpaths('//*[@id="post-tester_4"]/div[2]/div[1]/blockquote/p/text()')
-    # # print(crawl)
-    # # crawl.set_xpaths('//a[@class="article-title"]/text()')
-    # # print(crawl)
-    # # crawl.set_xpaths('//a[@class="article-title"]/@href')
-    # # print(crawl)
-    # # crawl.set_xpaths('//*[@class="article-date"]/time/@datetime')
+    # for item in xpaths:
+    #     crawl.set_xpaths(item)
+    #     print(crawl)
+    # crawl.set_xpaths('//*[@id="post-tester_4"]/div[2]/div[1]/blockquote/p/text()')
+    # print(crawl)
+    # crawl.set_xpaths('//a[@class="article-title"]/text()')
+    # print(crawl)
+    # crawl.set_xpaths('//a[@class="article-title"]/@href')
+    # print(crawl)
+    # crawl.set_xpaths('//*[@class="article-date"]/time/@datetime')
     # # print(crawl)
     # # print(crawl)
     #
@@ -169,11 +179,4 @@ if __name__ == '__main__':
     # for xpath in xpaths:
     #     testerhome.set_xpaths(xpath)
     #     print(testerhome)
-    
-    qb = QiuShiBaiKe('https://www.qiushibaike.com/', 'qb')
-    xpaths = [
-        '//h2/text()',
-        '//*[@class="content"]/span/text()',
-        '//*[@class="stats"]/span/i/text()'
-    ]
-    print(qb.allinfo(xpaths))
+    #
