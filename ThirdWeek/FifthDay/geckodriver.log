@@ -1,0 +1,955 @@
+1512048516482	geckodriver	INFO	geckodriver 0.19.1
+1512048516492	geckodriver	INFO	Listening on 127.0.0.1:61429
+1512048518789	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.N9ZJOcWic6XX"
+1512048521853	Marionette	INFO	Enabled via --marionette
+1512048530421	Marionette	INFO	Listening on port 61438
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512048530533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512048530632	Marionette	DEBUG	Register listener.js for window 4294967297
+1512048530793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512048531036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512048531037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512048534022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512048534685	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512048536843	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512048537018	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512048537020	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512048539792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048540603	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512048721951	geckodriver	INFO	geckodriver 0.19.1
+1512048721965	geckodriver	INFO	Listening on 127.0.0.1:62006
+1512048724066	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.b1Tzwx3nprA7"
+1512048725034	Marionette	INFO	Enabled via --marionette
+1512048729339	Marionette	INFO	Listening on port 62015
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512048729466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512048729614	Marionette	DEBUG	Register listener.js for window 4294967297
+1512048729656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512048731852	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512048731853	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512048734975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512048736375	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512048738509	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512048738666	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512048738671	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512048740896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048741723	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048743834	Marionette	DEBUG	Register listener.js for window 4294967302
+1512048743904	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512048925504	geckodriver	INFO	geckodriver 0.19.1
+1512048925514	geckodriver	INFO	Listening on 127.0.0.1:62480
+1512048927656	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.P5PIElKIGnOu"
+1512048928354	Marionette	INFO	Enabled via --marionette
+1512048931988	Marionette	INFO	Listening on port 62488
+[Parent 4404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512048933022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512048933097	Marionette	DEBUG	Register listener.js for window 4294967297
+1512048933120	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512048933234	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512048933235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512048935081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512048936306	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512048938445	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512048938587	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512048938594	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512048940694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048941603	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048943723	Marionette	DEBUG	Register listener.js for window 4294967302
+1512048943800	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048943843	Marionette	DEBUG	Register listener.js for window 4294967305
+1512048944358	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048944361	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512048944753	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/totaldownload?packagename=com.tencent.mm&date=1512048933114"
+1512048944874	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/totaldownload?packagename=com.tencent.mm&date=1512048933114"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 4404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512049065042	geckodriver	INFO	geckodriver 0.19.1
+1512049065050	geckodriver	INFO	Listening on 127.0.0.1:62895
+1512049067155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.cL1yy90Vui9b"
+1512049068282	Marionette	INFO	Enabled via --marionette
+1512049072592	Marionette	INFO	Listening on port 62905
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512049072705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512049072777	Marionette	DEBUG	Register listener.js for window 4294967297
+1512049072808	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512049073061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512049073062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512049074891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512049075758	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512049077872	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512049078011	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512049078013	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512049079917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049080915	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049083002	Marionette	DEBUG	Register listener.js for window 4294967302
+1512049083126	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049083147	Marionette	DEBUG	Register listener.js for window 4294967305
+1512049083556	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049083566	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049083998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049072798"
+1512049084026	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049072798"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 8452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512049116199	geckodriver	INFO	geckodriver 0.19.1
+1512049116209	geckodriver	INFO	Listening on 127.0.0.1:63087
+1512049118293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.sThN8IZCiL1p"
+1512049119073	Marionette	INFO	Enabled via --marionette
+1512049122620	Marionette	INFO	Listening on port 63095
+[Child 7184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512049123831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512049123935	Marionette	DEBUG	Register listener.js for window 4294967297
+1512049123965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512049124127	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512049124127	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512049125998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512049126731	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512049128832	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512049128959	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512049128962	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512049131134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049132541	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049134629	Marionette	DEBUG	Register listener.js for window 4294967302
+1512049134768	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512049136697	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049137719	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049137734	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049138514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049123960"
+1512049138750	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049123960"
+JavaScript error: http://cdn.coolguang.com/public/jkweb/js/vue/vue-unit.js, line 20: TypeError: n is undefined
+JavaScript error: chrome://browser/content/browser.js, line 6700: TypeError: cannot use the given object as a weak map key
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 1920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1920, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 1920, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+G	Register listener.js for window 4294967297
+1512049340846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512049341001	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512049341002	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512049343095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512049344078	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512049346223	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512049346424	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512049346427	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512049348432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049349629	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049351742	Marionette	DEBUG	Register listener.js for window 4294967302
+1512049351903	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512049353829	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049354985	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049354994	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049355966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049340724"
+1512049356634	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049340724"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 10060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:regi1512049396973	Marionette	INFO	Enabled via --marionette
+1512049400346	Marionette	INFO	Listening on port 63849
+1512049400502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512049400579	Marionette	DEBUG	Register listener.js for window 4294967297
+1512049400665	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512049400902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512049400903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512049403289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512049404095	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512049406262	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512049406368	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512049406370	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512049408465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049409265	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049411348	Marionette	DEBUG	Register listener.js for window 4294967302
+1512049411421	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512049414321	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049414947	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049414952	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E5%BE%AE%E4%BF%A1&site=0"
+1512049415316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049400656"
+1512049415489	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mm&status=-1&date=1512049400656"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512050775382	geckodriver	INFO	geckodriver 0.19.1
+1512050775393	geckodriver	INFO	Listening on 127.0.0.1:50076
+1512050777505	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.M7pgowvZJ72E"
+1512050778741	Marionette	INFO	Enabled via --marionette
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512050782172	Marionette	INFO	Listening on port 50088
+1512050783174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512050783270	Marionette	DEBUG	Register listener.js for window 4294967297
+1512050783314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512050783472	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512050783472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512050785261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512050785886	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512050786012	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512050786302	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512050786302	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512050788238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050789072	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050789239	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050789268	Marionette	DEBUG	Register listener.js for window 4294967302
+1512050789372	Marionette	DEBUG	Register listener.js for window 4294967305
+1512050789662	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050789665	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050790141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512050783308"
+1512050790158	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512050783308"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 4920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512050867271	geckodriver	INFO	geckodriver 0.19.1
+1512050867282	geckodriver	INFO	Listening on 127.0.0.1:50349
+1512050869383	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.RT8kyY4twQTG"
+1512050870168	Marionette	INFO	Enabled via --marionette
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512050873314	Marionette	INFO	Listening on port 50357
+1512050873692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512050873780	Marionette	DEBUG	Register listener.js for window 4294967297
+1512050873854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512050874050	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512050874051	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512050876672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512050877738	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512050877857	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512050878107	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512050878108	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512050879971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050880678	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050880788	Marionette	DEBUG	Register listener.js for window 4294967302
+1512050880891	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError:1512050941902	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\r
+###!!! [Child][MessageChann1512050943307	Marionette	INFO	Enabled via --marionette
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512050946473	Marionette	INFO	Listening on port 50578
+1512050946748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512050947082	Marionette	DEBUG	Register listener.js for window 4294967297
+1512050947292	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512050947777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512050947778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512050949366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512050950222	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512050950457	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512050950641	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512050950644	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512050952574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050953178	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050953359	Marionette	DEBUG	Register listener.js for window 4294967302
+1512050953438	Marionette	DEBUG	Register listener.js for window 4294967305
+1512050953491	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050954076	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050954078	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512050954205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512050947284"
+1512050954215	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512050947284"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError:1512051045090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.poX4jvrQpCCu"
+1512051046166	Marionette	INFO	Enabled via --marionette
+[Child 2116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051049111	Marionette	INFO	Listening on port 50860
+1512051049413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051049517	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051049597	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051049917	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051049917	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051052462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051053594	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051054178	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051054833	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051054833	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051056957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051057842	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051058032	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051058076	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://cdn.coolguang.com/public/jkweb/js/vue/vue-unit.js, line 20: TypeError: n is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6
+1512051094117	Marionette	INFO	Listening on port 51047
+1512051094368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051094645	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051094712	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051094861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051094861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051096919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051097757	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051097913	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051098010	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051098010	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051099904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051100438	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051100560	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051100632	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 3504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512051196485	geckodriver	INFO	geckodriver 0.19.1
+1512051196495	geckodriver	INFO	Listening on 127.0.0.1:51360
+1512051198614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.FK9KYvY3axRc"
+1512051199586	Marionette	INFO	Enabled via --marionette
+1512051203811	Marionette	INFO	Listening on port 51368
+1512051204129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051204251	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051204314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051204522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051204523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051206234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051207099	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051207203	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051207363	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051207363	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051209285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051210542	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051210735	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051210821	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051210906	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051211122	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051211124	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051211795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051204307"
+1512051211825	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051204307"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 2340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::1512051339591	Marionette	INFO	Enabled via --marionette
+1512051344092	Marionette	INFO	Listening on port 51704
+1512051344490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051344673	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051344716	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051344946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051344947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051347228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051348225	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051348510	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051348880	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051348880	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051350952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051351941	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051352142	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051352251	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051395215	geckodriver	INFO	geckodriver 0.19.1
+1512051395224	geckodriver	INFO	Listening on 127.0.0.1:51917
+1512051397326	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.mY7LOyL9n5PE"
+1512051398656	Marionette	INFO	Enabled via --marionette
+[Child 396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051403100	Marionette	INFO	Listening on port 51928
+1512051403280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051403382	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051403569	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051403986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051403987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051406819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051407431	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051407630	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051407764	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051407764	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051409730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051410777	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051410872	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051410971	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051412278	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051412452	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051412454	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051412543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051403438"
+1512051412564	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051403438"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512051433914	geckodriver	INFO	geckodriver 0.19.1
+1512051433929	geckodriver	INFO	Listening on 127.0.0.1:52074
+1512051436047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.8Es4fxI03uQq"
+1512051437304	Marionette	INFO	Enabled via --marionette
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051441200	Marionette	INFO	Listening on port 52089
+1512051441685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051441910	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051442061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051444747	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051444750	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051447524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051448655	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051448862	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051449134	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051449137	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051451845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051453028	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051453143	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051453232	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512051458139	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051458795	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051458852	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051459276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051442023"
+1512051459299	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051442023"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 4884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1512051572538	Marionette	INFO	Listening on port 52424
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051572760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051574230	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051574305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051574906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051574906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051577532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051578185	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051578501	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051578744	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051578744	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051580829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051581849	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051582026	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051582108	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512051586204	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051586977	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051587087	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051587652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051574255"
+1512051587780	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051574255"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512051594345	geckodriver	INFO	geckodriver 0.19.1
+1512051594356	geckodriver	INFO	Listening on 127.0.0.1:52562
+1512051596452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.SyDPq2kUeQ1y"
+1512051597410	Marionette	INFO	Enabled via --marionette
+1512051601630	Marionette	INFO	Listening on port 52572
+[Child 648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051602241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051602320	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051602340	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051602547	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051602551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051605231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051606035	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051606286	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051606626	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051606627	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051608763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051609517	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051609634	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051609706	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051609992	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051610308	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051610319	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051610977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051602330"
+1512051611009	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051602330"
+JavaScript error: http://cdn.coolguang.com/public/jkweb/js/vue/vue-unit.js, line 20: TypeError: n is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 1956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6
+[Child 7148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051649288	Marionette	INFO	Listening on port 52740
+1512051650023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051650249	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051650514	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051650787	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051650788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051654530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051656501	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051656975	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051657922	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051657923	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051660631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051661736	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051662060	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051662277	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051662361	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051662910	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051662924	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051663499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051650465"
+1512051663693	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051650465"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 9356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. I[Child 9504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051686990	Marionette	INFO	Listening on port 52931
+1512051687344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051687434	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051687512	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051687807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051687807	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051689880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051690549	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512051690639	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051690810	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051690810	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051692789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051693534	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051693786	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051693974	Marionette	DEBUG	Register listener.js for window 4294967305
+1512051694123	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051694448	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051694452	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051694842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051687506"
+1512051694908	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512051687506"
+JavaScript error: http://cdn.coolguang.com/public/jkweb/js/vue/vue-unit.js, line 20: TypeError: n is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError:1512051730287	mozrunner::runner	INF*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageCh1512051731601	Marionette	INFO	Enabled via --marionette
+[Child 6120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512051735382	Marionette	INFO	Listening on port 53107
+1512051736251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512051736609	Marionette	DEBUG	Register listener.js for window 4294967297
+1512051736677	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512051737009	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512051737010	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512051741288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512051762113	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512051763160	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512051763759	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512051763760	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512051766759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051767563	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512051767828	Marionette	DEBUG	Register listener.js for window 4294967302
+1512051768131	Marionette	DEBUG	Register listener.js for window 4294967305
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GPU 7528, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[GPU 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512052075045	geckodriver	INFO	geckodriver 0.19.1
+1512052075052	geckodriver	INFO	Listening on 127.0.0.1:53846
+1512052077172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.te8CYdBurtb8"
+1512052078092	Marionette	INFO	Enabled via --marionette
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512052082481	Marionette	INFO	Listening on port 53854
+1512052082644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052082726	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052082793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052082979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512052082980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512052085480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512052086189	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512052086274	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512052086529	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512052086529	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512052088674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052089684	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052089896	Marionette	DEBUG	Register listener.js for window 4294967302
+1512052090061	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 616, Gecko_IOThread] 1512052116625	Marionette	INFO	Enabled via --marionette
+1512052120278	Marionette	INFO	Listening on port 54013
+1512052120776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052120890	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052121078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052121356	Marionette	DEBUG	Receive*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for 1512052123557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512052124330	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512052124604	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512052124779	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512052124780	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512052126728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052128268	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052128430	Marionette	DEBUG	Register listener.js for window 4294967302
+1512052129451	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 3424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1512052179577	Marionette	INFO	Listening on port 54221
+1512052179766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052180002	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052180083	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052180270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512052180270	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512052181974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512052183095	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512052183288	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512052183574	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512052183575	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512052185554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052186227	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052186363	Marionette	DEBUG	Register listener.js for window 4294967302
+1512052186444	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://cdn.coolguang.com/public/jkweb/js/vue/vue-unit.js, line 20: TypeError: e is null
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512052477631	geckodriver	INFO	geckodriver 0.19.1
+1512052477640	geckodriver	INFO	Listening on 127.0.0.1:54899
+1512052479746	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.0EqHcAureFEb"
+1512052480557	Marionette	INFO	Enabled via --marionette
+[Child 3276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512052483643	Marionette	INFO	Listening on port 54909
+1512052484138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052484265	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052484395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052484617	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512052484617	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512052486270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512052486794	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512052486923	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512052487189	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512052487192	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512052489087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052489760	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052489857	Marionette	DEBUG	Register listener.js for window 4294967302
+1512052489908	Marionette	DEBUG	Register listener.js for window 4294967305
+1512052494118	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052494784	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052494813	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=QQ&site=0"
+1512052495482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512052484386"
+1512052495631	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.mobileqq&status=-1&date=1512052484386"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: devtools/client/shared/react-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: components/main-tabbed-area
+http://requirejs.org/docs/errors.html#scripterror
+[Child 212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512052501092	geckodriver	INFO	geckodriver 0.19.1
+1512052501100	geckodriver	INFO	Listening on 127.0.0.1:55022
+1512052503226	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.vYX5z2cTcBqZ"
+1512052504027	Marionette	INFO	Enabled via --marionette
+1512052507572	Marionette	INFO	Listening on port 55030
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512052507851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052508104	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052508232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052508447	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512052508447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512052510792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512052512089	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512052514324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512052514660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512052525733	geckodriver	INFO	geckodriver 0.19.1
+1512052525749	geckodriver	INFO	Listening on 127.0.0.1:55133
+1512052527859	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.7PlcCvXBz8br"
+1512052528745	Marionette	INFO	Enabled via --marionette
+[Child 240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512052531761	Marionette	INFO	Listening on port 55142
+1512052532001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512052532263	Marionette	DEBUG	Register listener.js for window 4294967297
+1512052532314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512052532466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512052532466	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512052534615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512052535535	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512052537790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512052538093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512053030293	geckodriver	INFO	geckodriver 0.19.1
+1512053030303	geckodriver	INFO	Listening on 127.0.0.1:56057
+1512053032402	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.FHx2Ru1VkrX5"
+1512053033213	Marionette	INFO	Enabled via --marionette
+1512053036124	Marionette	INFO	Listening on port 56066
+1512053036529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053036673	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053036762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053036974	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053036974	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053039951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053040832	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.XyNsBVZvoNfw"
+1512053132545	Marionette	INFO	Enabled via --marionette
+1512053135866	Marionette	INFO	Listening on port 56298
+1512053136482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053136584	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053136758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053136887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053136887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053139312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053141330	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053141605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053141856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512053146105	geckodriver	INFO	geckodriver 0.19.1
+1512053146114	geckodriver	INFO	Listening on 127.0.0.1:56380
+1512053148244	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.sTmlD04NMgvi"
+1512053149181	Marionette	INFO	Enabled via --marionette
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053154776	Marionette	INFO	Listening on port 56389
+1512053155854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053155937	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053155992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053156154	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053156155	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053158488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053159493	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053159955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053160582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053176335	geckodriver	INFO	geckodriver 0.19.1
+1512053176342	geckodriver	INFO	Listening on 127.0.0.1:56499
+1512053178437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.zM0tlURPxtdu"
+1512053179195	Marionette	INFO	Enabled via --marionette
+[Parent 8624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053182294	Marionette	INFO	Listening on port 56510
+1512053182708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053183118	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053183194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053183462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053183462	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053185528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053186588	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053187079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053187390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512053219225	geckodriver	INFO	geckodriver 0.19.1
+1512053219232	geckodriver	INFO	Listening on 127.0.0.1:56636
+1512053221329	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.wGUMnLBRgYNx"
+1512053222062	Marionette	INFO	Enabled via --marionette
+1512053225379	Marionette	INFO	Listening on port 56644
+[Child 684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053225519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053225644	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053225710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053225871	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053225871	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053227872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053228865	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053229320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053229670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053326175	geckodriver	INFO	geckodriver 0.19.1
+1512053326184	geckodriver	INFO	Listening on 127.0.0.1:56846
+1512053328305	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.hYxvmDHtFVus"
+1512053329144	Marionette	INFO	Enabled via --marionette
+[Child 7148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053332267	Marionette	INFO	Listening on port 56856
+1512053332657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053332787	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053332874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053333019	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053333020	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053334731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512053335721	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512053335852	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512053335975	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512053335976	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512053337912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053339622	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053339811	Marionette	DEBUG	Register listener.js for window 4294967302
+1512053339899	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512053343842	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053344388	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053344396	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053344827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053332869"
+1512053344996	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053332869"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512053368627	geckodriver	INFO	geckodriver 0.19.1
+1512053368636	geckodriver	INFO	Listening on 127.0.0.1:57017
+1512053370758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.fSwnhTaphJZ8"
+1512053371510	Marionette	INFO	Enabled via --marionette
+[Parent 7692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053374637	Marionette	INFO	Listening on port 57025
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053374908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053375040	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053375120	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053375396	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053375397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053377010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512053378282	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512053378390	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512053378624	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512053378625	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512053380624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053382034	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053382117	Marionette	DEBUG	Register listener.js for window 4294967302
+1512053382186	Marionette	DEBUG	Register listener.js for window 4294967305
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1512053385428	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053386057	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053386062	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053386528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053375105"
+1512053386633	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053375105"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError:1512053400141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.qN49mczrlOJL"
+1512053401054	Marionette	INFO	Enabled via --marionette
+[Child 8836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053404307	Marionette	INFO	Listening on port 57173
+1512053404586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053404728	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053404774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053405012	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053405013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053406882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512053407562	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512053407690	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512053407873	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512053407874	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512053409716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053410964	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053411063	Marionette	DEBUG	Register listener.js for window 4294967302
+1512053411123	Marionette	DEBUG	Register listener.js for window 4294967305
+1512053414125	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053414762	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053414767	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053415171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053404769"
+1512053415344	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053404769"
+1512053415534	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053404769"
+1512053415701	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053404769"
+1512053415701	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053404769"
+1512053420154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053420306	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053420560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError:1512053456171	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.gWorFQOtUhrE"
+1512053457048	Marionette	INFO	Enabled via --marionette
+1512053460733	Marionette	INFO	Listening on port 57380
+[Child 3480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512053461680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512053461769	Marionette	DEBUG	Register listener.js for window 4294967297
+1512053461793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512053461908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512053461908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053463958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512053464578	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512053464697	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512053464852	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512053464852	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512053466749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053467572	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053467704	Marionette	DEBUG	Register listener.js for window 4294967302
+1512053467776	Marionette	DEBUG	Register listener.js for window 4294967305
+1512053470937	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053471482	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053471499	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053471935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053461787"
+1512053472079	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053461787"
+1512053477200	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053461787"
+1512053477323	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053461787"
+1512053477324	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053461787"
+1512053481308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053481455	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053481725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512053485090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Child 9688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Received DOM event "pagehide" for "about:blank"
+1512053499595	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512053501501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/index"
+1512053502038	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/index"
+1512053502154	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/index"
+1512053502305	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/index"
+1512053502306	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/index"
+1512053504290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053505053	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053505229	Marionette	DEBUG	Register listener.js for window 4294967302
+1512053505312	Marionette	DEBUG	Register listener.js for window 4294967305
+1512053514779	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053519990	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053520011	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/page/detail/searchResult?kw=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%EF%BC%88%E5%85%A8%E5%BF%83%E5%87%BA%E5%87%BB%EF%BC%89&site=0"
+1512053521197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053499330"
+1512053521356	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053499330"
+1512053526525	Marionette	DEBUG	Received DOM event "beforeunload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053499330"
+1512053526592	Marionette	DEBUG	Received DOM event "pagehide" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053499330"
+1512053526592	Marionette	DEBUG	Received DOM event "unload" for "http://android.kuchuan.com/dailydownload?packagename=com.tencent.tmgp.sgame&status=-1&date=1512053499330"
+1512053529512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053529665	Marionette	DEBUG	Received DOM event "pageshow" for "http://android.kuchuan.com/page/detail/version?package=com.tencent.mobileqq&infomarketid=1&site=0"
+1512053529932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3909: TypeError: this.tabs is undefined
+[Parent 6172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+[Parent 6172, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
