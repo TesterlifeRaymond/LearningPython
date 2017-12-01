@@ -1,0 +1,82 @@
+1512138752159	geckodriver	INFO	geckodriver 0.19.1
+1512138752171	geckodriver	INFO	Listening on 127.0.0.1:54144
+1512138754274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.49FFw4e1CzuL"
+1512138755667	Marionette	INFO	Enabled via --marionette
+[Parent 7528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512138759249	Marionette	INFO	Listening on port 54152
+1512138759845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512138760366	Marionette	DEBUG	Register listener.js for window 4294967297
+1512138760530	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512138761437	geckodriver	INFO	geckodriver 0.19.1
+1512138761448	geckodriver	INFO	Listening on 127.0.0.1:54197
+1512138763591	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.AadaP94tlI9l"
+1512138764713	Marionette	INFO	Enabled via --marionette
+[Child 7336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512138768890	Marionette	INFO	Listening on port 54205
+1512138769280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512138769359	Marionette	DEBUG	Register listener.js for window 4294967297
+1512138769420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512138770225	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512138770225	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512138771617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://testerhome.com/account/sign_in"
+1512138819392	Marionette	DEBUG	Received DOM event "pageshow" for "https://testerhome.com/account/sign_in"
+1512138819922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC [GFX1-]: Rceceive IPC closelose wi wth reaith reson=AbnormalasonShu=Atdown
+bnormalShutdown
+1512138825851	geckodriver	INFO	geckodriver 0.19.1
+1512138825861	geckodriver	INFO	Listening on 127.0.0.1:54380
+1512138827953	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.OFOJIFhRbSwL"
+1512138828735	Marionette	INFO	Enabled via --marionette
+1512138832757	Marionette	INFO	Listening on port 54391
+1512138833385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512138833537	Marionette	DEBUG	Register listener.js for window 4294967297
+1512138833568	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512138834184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512138834184	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512138835224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerlife.com/"
+1512138839321	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerlife.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512139125991	geckodriver	INFO	geckodriver 0.19.1
+1512139125999	geckodriver	INFO	Listening on 127.0.0.1:54928
+1512139128118	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.Rr0m9RsorDgJ"
+1512139129267	Marionette	INFO	Enabled via --marionette
+[Child 860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512139133310	Marionette	INFO	Listening on port 54936
+1512139133446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512139133755	Marionette	DEBUG	Register listener.js for window 4294967297
+1512139133908	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[GFX1-]: Receive IPC close with re[GFX1-]: Receive IPC closason=AbnormalShutdown
+e with reason=AbnormalShutdown
+1512139134567	geckodriver	INFO	geckodriver 0.19.1
+1512139134576	geckodriver	INFO	Listening on 127.0.0.1:54970
+1512139136689	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.uaBWPjEB43BI"
+1512139138242	Marionette	INFO	Enabled via --marionette
+1512139143075	Marionette	INFO	Listening on port 54980
+1512139143361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512139143521	Marionette	DEBUG	Register listener.js for window 4294967297
+1512139143567	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512139144169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512139144170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512139145554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://testerhome.com/account/sign_in"
+1512139171928	Marionette	DEBUG	Received DOM event "pageshow" for "https://testerhome.com/account/sign_in"
+1512139172376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512139178812	geckodriver	INFO	geckodriver 0.19.1
+1512139178834	geckodriver	INFO	Listening on 127.0.0.1:55103
+1512139180926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIUJIN~1\\AppData\\Local\\Temp\\rust_mozprofile.tyWsu11y4uvv"
+1512139182714	Marionette	INFO	Enabled via --marionette
+[Child 2868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512139186595	Marionette	INFO	Listening on port 55113
+1512139187100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512139187380	Marionette	DEBUG	Register listener.js for window 4294967297
+1512139187558	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512139188524	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512139188525	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512139193195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testerlife.com/"
+1512139197048	Marionette	DEBUG	Received DOM event "pageshow" for "http://testerlife.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
