@@ -1,0 +1,68 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "firstImg": {
+      "$id": "/properties/firstImg",
+      "type": "string",
+      "title": "The Firstimg Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://zxpic.gtimg.com/infonew/0/wechat_pics_-60753421.jpg/640"
+      ]
+    },
+    "title": {
+      "$id": "/properties/title",
+      "type": "string",
+      "title": "The Title Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "【学讲话·品典故】益者三友"
+      ]
+    },
+    "url": {
+      "$id": "/properties/url",
+      "type": "string",
+      "title": "The Url Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://v.juhe.cn/weixin/redirect?wid=wechat_20171205030686"
+      ]
+    },
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "wechat_20171205030686"
+      ]
+    },
+    "mark": {
+      "$id": "/properties/mark",
+      "type": "string",
+      "title": "The Mark Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "source": {
+      "$id": "/properties/source",
+      "type": "string",
+      "title": "The Source Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "中央纪委监察部网站"
+      ]
+    }
+  }
+}
