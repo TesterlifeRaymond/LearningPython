@@ -1,0 +1,66 @@
+
+
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "ruleString": {
+      "$id": "/properties/ruleString",
+      "type": "string",
+      "title": "The Rulestring Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "E+B"
+      ]
+    },
+    "chooseUrl": {
+      "$id": "/properties/chooseUrl",
+      "type": "string",
+      "title": "The Chooseurl Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "static/images/90_y/015.png"
+      ]
+    },
+    "correctIndex": {
+      "$id": "/properties/correctIndex",
+      "type": "integer",
+      "title": "The Correctindex Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        7
+      ]
+    },
+    "pictureNum": {
+      "$id": "/properties/pictureNum",
+      "type": "string",
+      "title": "The Picturenum Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "015"
+      ]
+    },
+    "randomSore": {
+      "$id": "/properties/randomSore",
+      "type": "array",
+      "items": {
+        "$id": "/properties/randomSore/items",
+        "type": "integer",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": 0,
+        "examples": [
+          0
+        ]
+      }
+    }
+  },
+  "required": ["chooseUrl"]
+}
+

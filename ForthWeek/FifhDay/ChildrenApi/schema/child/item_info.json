@@ -1,0 +1,48 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "integer",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        3
+      ]
+    },
+    "identity": {
+      "$id": "/properties/identity",
+      "type": "string",
+      "title": "The Identity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "vip"
+      ]
+    },
+    "uid": {
+      "$id": "/properties/uid",
+      "type": "string",
+      "title": "The Uid Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "b713603c-1db5-11e7-bbca-0242c0a80002"
+      ]
+    },
+    "username": {
+      "$id": "/properties/username",
+      "type": "string",
+      "title": "The Username Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ysc"
+      ]
+    }
+  }
+}
